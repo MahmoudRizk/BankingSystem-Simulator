@@ -27,3 +27,8 @@ source FILEPATH/banking_mysql.sql
 ```c++
  DataBaseManager db("QMYSQL", "localhost", "DB_NAME", "YOUR_DB_USERNAME" ,"DB_PASSWORD" ); // Establishing connection with mysql DB.
 ```
+```c++
+"DB_NAME" ---> The name of the database in MySQL server which we created before : "bank".
+"YOUR_DB_USERNAME" ---> Your username of MySQL server.
+"DB_PASSWORD" ---> Your password of MySQL server.
+```
