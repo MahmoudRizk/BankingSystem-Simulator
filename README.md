@@ -17,3 +17,7 @@ mysql -u USERNAME -p PASSWORD
 mysql> CREATE DATABASE bank;
 mysql> use bank;
 ```
+* Populate your database with some fake Data. Run <b>banking_mysql.sql</b> file which will create the tables for you and will insert 1000 entry.
+```
+source FILEPATH/banking_mysql.sql
+```
