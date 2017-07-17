@@ -22,3 +22,8 @@ mysql> use bank;
 source FILEPATH/banking_mysql.sql
 ```
 * <b>Now</b> your DataBase is up and running.
+#### 2) qt files:
+* Open the main.cpp file, then edit the database parameters.
+```c++
+ DataBaseManager db("QMYSQL", "localhost", "DB_NAME", "YOUR_DB_USERNAME" ,"DB_PASSWORD" ); // Establishing connection with mysql DB.
+```
