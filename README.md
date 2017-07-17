@@ -4,8 +4,8 @@
 * This project was <b>built</b> using <b>Linux</b> OS, so you will <b>mantain</b> any <b>differences</b> faced in case of using another operating systems like <b>Windows</b> or <b>Mac</b>. Since <b>qt</b> is a crossplatform framework so there will be no problems with the GUI, the diffrences you may face will be concerning <b>MySQL</b> database server. 
 * The <b>Code</b> is commented making it easy keeping up with and clearing any ambiguity might be faced.
 * <b>Screenshots:</b> <br/> <br/>
-![Alt text](https://lh3.googleusercontent.com/ot-Pd79vziLrNZJsg0ZKHQXFEXecG4G12xx09y3vXbQ1flE0qUm1iTHZsHOjxz1d_oXIMYsLssG7UpE=w1305-h678)
-![Alt text](https://lh4.googleusercontent.com/zIBKfzjX3bcPu9tUfIdnPvqBcWW4ZUq2NFdFmIvEw3a3KJVr-cM0CUTvXDH3kK3C9xqI0gLm-bY0nos=w1305-h678)
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/kcOOAF/c.png" alt="c" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/dfdeja/b.png" alt="b" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 ## Requirements:
 * <b>qt5</b>.
 * <b>MySQL Server</b> V:5.5.
