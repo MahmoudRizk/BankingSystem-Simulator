@@ -21,3 +21,4 @@ mysql> use bank;
 ```
 source FILEPATH/banking_mysql.sql
 ```
+* <b>Now</b> your DataBase is up and running.
