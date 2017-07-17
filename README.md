@@ -19,7 +19,7 @@ mysql> use bank;
 ```
 * Populate your database with some fake Data. Run <b>banking_mysql.sql</b> file which will create the tables for you and will insert 1000 entry.
 ```
-source FILEPATH/banking_mysql.sql
+mysql> source FILEPATH/banking_mysql.sql
 ```
 * <b>Now</b> your DataBase is up and running.
 #### 2) qt files:
