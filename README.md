@@ -32,4 +32,4 @@ mysql> source FILEPATH/banking_mysql.sql
 "YOUR_DB_USERNAME" ---> Your username of MySQL server.
 "DB_PASSWORD" ---> Your password of MySQL server.
 ```
-* Build the project using <b>Qt creator</b> or using <b>qmake</b> command from the <b>cmd</b> then run it.
+* Build the project using <b>Qt creator</b> or using <b>qmake</b> command from the <b>terminal</b> then run it.
