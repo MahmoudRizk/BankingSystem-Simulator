@@ -7,4 +7,13 @@
 * <b>qt5</b>.
 * <b>MySQL Server</b> V:5.5.
 ## Installation & Usage:
-
+#### 1) Setup your database: 
+* After the installation of MySQL server, run it.
+```
+mysql -u USERNAME -p PASSWORD
+```
+* Create your database then use it.
+```
+mysql> CREATE DATABASE bank;
+mysql> use bank;
+```
